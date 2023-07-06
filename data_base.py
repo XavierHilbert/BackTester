@@ -1,0 +1,6 @@
+SYMBOLS: list = []
+USED_STOCKS_AND_DATES: list = []
+NET_AMOUNT: list = []
+NET_PERCENT: list = []
+NET_PERCENT_NO_ZEROS: list = []
+NET_PERCENT_LOSS: list = []
